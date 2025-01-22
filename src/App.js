@@ -42,7 +42,7 @@ const App = () => {
     <div className="App">
       <h1>GPA Calculator</h1>
       <div className="module-count">
-        <label htmlFor="moduleCount">Number of Modules (Max 15): </label>
+        <label htmlFor="moduleCount">No of Modules (Max 15): </label>
         <input
           type="number"
           id="moduleCount"
